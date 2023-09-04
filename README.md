@@ -13,7 +13,7 @@
 ### 📫 How to reach me:
 
 - Twitter: https://twitter.com/ShwetaC25863219
-- Github: https://github.com/Shweta-Vitality
+- Github: https://github.com/ShwetaChauhan18
 - Stackoverflow: https://stackoverflow.com/users/6021469/shweta-chauhan
 - Medium: https://shwetachauhan655.medium.com
 - LinkedIn: https://www.linkedin.com/in/shweta-chauhan-0a6638105
